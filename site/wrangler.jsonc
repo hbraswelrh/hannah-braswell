@@ -1,0 +1,12 @@
+{
+  // Static-assets-only Worker: no server code, just the Hugo output in public/.
+  // Cloudflare runs `wrangler deploy` from the build root directory (site/),
+  // so "directory" is relative to site/.
+  "name": "hannah-braswell",
+  "compatibility_date": "2026-10-04",
+  "assets": {
+    "directory": "./public",
+    // Serve Hugo's generated 404.html for unmatched paths.
+    "not_found_handling": "404-page"
+  }
+}
