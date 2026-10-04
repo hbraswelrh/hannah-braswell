@@ -18,7 +18,9 @@ I'm also part of the inagural cohort of [OpenSSF Ambassadors](https://openssf.or
 
 ## What I'm Exploring
 
-Representation in multilingual datasets for large language models — specifically the opportunity for refinement and more nuanced depiction of the languages they serve.
+Representation in multilingual datasets for large language models. Specifically, the opportunity for refinement and more nuanced depiction of the languages they serve. I'm interested at the most granular level and want to learn how large language models could benefit from existing frameworks in the field of linguistics. 
+
+> Particularly interesting work by Queen Mary University of London on [Computational Linguistics and Artificial Intelligence](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/linguistics-and-ai-msc/). 
 
 ## Beyond Work
 
