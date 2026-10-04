@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&family=Cabin:wght@400;500;600;700&display=swap');
+
+body,
+.content,
+.meta,
+.list,
+.excerpt,
+.category-link {
+  font-family: "Cabin", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.title,
+.info-header {
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+}
+
+.intro,
+.social {
+  font-family: "Raleway", sans-serif;
+}
+
+.content,
+.content p,
+.content li,
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6,
+.title h1 {
+  color: #000;
+}
+
+.menu-item,
+.content a,
+a.meta,
+.category a,
+.error a {
+  color: #2d6a4f !important;
+}
+
+.social a {
+  color: #2d6a4f;
+}
+
+body {
+  background-color: #f7f7f5;
+}

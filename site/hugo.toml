@@ -1,0 +1,49 @@
+baseURL = "https://hannah-braswell.com/"
+locale = "en-us"
+title = "Hannah Braswell"
+theme = "hugo-goa"
+
+[params]
+author = "Hannah Braswell"
+intro = "Product Security Engineer & Open Source Community Manager"
+description = "Welcome to my portfolio and blog."
+authorimage = "headshot.png"
+dateformat = "Jan 2, 2006"
+
+[params.meta]
+description = "Hannah Braswell — product security engineer, open source community manager, and speaker"
+keywords = "product security,open source,portfolio,blog,projects,talks"
+
+[params.social]
+github = "hbraswelrh"
+linkedin = "hannah-braswell-414887221"
+
+[params.extra]
+copyright = "© 2026. Hannah Braswell. All rights reserved."
+poweredby = false
+highlightjs = true
+toc = true
+
+[[menu.main]]
+name = "about"
+identifier = "about"
+weight = 100
+url = "about/"
+
+[[menu.main]]
+name = "posts"
+identifier = "posts"
+weight = 200
+url = "posts/"
+
+[[menu.main]]
+name = "projects"
+identifier = "projects"
+weight = 300
+url = "projects/"
+
+[[menu.main]]
+name = "talks"
+identifier = "talks"
+weight = 400
+url = "talks/"
