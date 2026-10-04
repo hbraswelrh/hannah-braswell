@@ -24,6 +24,13 @@ Representation in multilingual datasets for large language models — specifical
 
 Outside of her work, she enjoys traveling, hiking, and exploring art exhibitions.
 
+{{< figure
+  src="/images/sequoia-national-park.jpg"
+  alt="Hannah standing beside the carved wooden entrance sign for Sequoia National Park, with granite peaks and autumn foliage in the background"
+  caption="Sequoia National Park, California"
+  loading="lazy"
+>}}
+
 ## Get in Touch
 
 Feel free to connect with me on [GitHub](https://github.com/hbraswelrh) or [LinkedIn](https://www.linkedin.com/in/hannah-braswell-414887221).

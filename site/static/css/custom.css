@@ -49,3 +49,23 @@ a.meta,
 body {
   background-color: #f7f7f5;
 }
+
+/* Inline content photos — constrained so portrait shots don't dominate the page. */
+.content figure {
+  margin: 2rem auto;
+  max-width: 420px;
+  text-align: center;
+}
+
+.content figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.content figure figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #555;
+}
