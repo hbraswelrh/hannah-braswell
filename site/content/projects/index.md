@@ -10,23 +10,23 @@ A selection of projects I've built or contributed to.
 
 ---
 
-### Project Name
+### Gemara AI
 
-Brief description of the project — what it does and why it matters.
+*Maintainer*
 
-**Tech:** Go, PostgreSQL, gRPC
+A Claude Code plugin for authoring and validating Gemara security artifacts. It
+bundles an MCP server exposing `validate_gemara_artifact` and
+`migrate_gemara_artifact` alongside the Gemara lexicon and schema resources, plus
+an interactive authoring skill that triages what artifact you need and walks you
+through building it.
 
-[Source](https://github.com/<username>/project) | [Live Demo](https://example.com)
+Wizards cover threat catalogs, control catalogs, risk catalogs, policies, and
+mapping documents across Gemara layers 2 and 3 — turning schema-heavy compliance
+documents into a guided conversation instead of hand-written YAML.
 
----
+**Tech:** MCP, Claude Code plugins, JSON Schema, Podman/Docker
 
-### Another Project
-
-Brief description of this project.
-
-**Tech:** Python, React, Docker
-
-[Source](https://github.com/<username>/project)
+[Source](https://github.com/gemaraproj/gemara-ai)
 
 ---
 
