@@ -30,4 +30,26 @@ documents into a guided conversation instead of hand-written YAML.
 
 ---
 
-<!-- Copy the block above to add more projects -->
+<!-- Template — copy a block below, uncomment it, and fill it in.
+
+### Project Name
+
+Brief description of the project — what it does and why it matters.
+
+**Tech:** Go, PostgreSQL, gRPC
+
+[Source](https://github.com/<username>/project) | [Live Demo](https://example.com)
+
+---
+
+### Another Project
+
+Brief description of this project.
+
+**Tech:** Python, React, Docker
+
+[Source](https://github.com/<username>/project)
+
+---
+
+-->
