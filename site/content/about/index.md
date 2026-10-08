@@ -20,7 +20,7 @@ I'm also part of the inagural cohort of [OpenSSF Ambassadors](https://openssf.or
 
 Representation in multilingual datasets for large language models. Specifically, the opportunity for refinement and more nuanced depiction of the languages they serve. I'm interested at the most granular level and want to learn how large language models could benefit from existing frameworks in the field of linguistics. 
 
-> Particularly interesting work by Queen Mary University of London on [Computational Linguistics and Artificial Intelligence](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/linguistics-and-ai-msc/). 
+> Particularly interesting work by Professor John McCarthy of Standford University on [What AI Needs From Computational Linguistics](http://jmc.stanford.edu/articles/coglunch.html). 
 
 ## Beyond Work
 
@@ -35,4 +35,6 @@ Outside of my work, I adore traveling, hiking, and exploring art exhibitions. I'
 
 ## Get in Touch
 
-Feel free to connect with me on [GitHub](https://github.com/hbraswelrh) or [LinkedIn](https://www.linkedin.com/in/hannah-braswell-414887221)!
+* [Connect with me on GitHub](https://github.com/hbraswelrh)
+* [Connect with me on LinkedIn](https://www.linkedin.com/in/hannah-braswell-414887221)
+* [Find me on Sessionize](https://sessionize.com/hannah-braswell/)
